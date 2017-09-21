@@ -15,5 +15,7 @@ Release Date: Sep 21, 2017
     
 ## Updated Components
 
+- Completed step 1 of the lab
+
 - Initialized changelog
 
