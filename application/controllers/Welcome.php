@@ -35,7 +35,7 @@ class Welcome extends Application
            $rows = $this->table->make_columns($cells, 3);
            $this->data['thetable'] = $this->table->generate($rows);
 
-           $this->data['pagebody'] = 'gallery';
+           $this->data['pagebody'] = 'welcome';
            $this->render();
         }
 	/*public function index()
