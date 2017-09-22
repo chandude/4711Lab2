@@ -15,6 +15,7 @@ Release Date: Sep 21, 2017
     
 ## Updated Components
 
+- Completed step 3 of the lab
 - Completed step 2 of lab.
 - Completed step 1 of the lab
 
