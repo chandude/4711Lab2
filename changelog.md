@@ -8,12 +8,6 @@ Changelog format: [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdo
 
 Release Date: Sep 21, 2017
 
-## New Components
-- Views
-    - _cell.php
-
-
-    
 ## Log
 
 - Initialized changelog
@@ -21,7 +15,13 @@ Release Date: Sep 21, 2017
 - Completed step 2 of lab.
 - Completed step 3 of the lab
 
-##Updated Components
+
+## New Components
+- Views
+    - _cell.php
+
+
+## Updated Components
 
 - Controllers
 
